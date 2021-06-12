@@ -26,7 +26,7 @@ public class EbooksApp implements DataBaseConstantes {
         
         
         
-
+            // sorte!!
        //comando para lista no banco de dados BUSCAR
        
          /*EbooksDao dao = new EbooksDao();
